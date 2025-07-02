@@ -1,5 +1,4 @@
 import time
-import math
 import pyvista as pv
 
 heart_model = pv.read("Corazon.stl")
